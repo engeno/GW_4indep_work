@@ -1,6 +1,6 @@
-Git and GitHub for collaborative research: Independet work
+Git project
 ================
-Your name
+Eric
 
 - [Project description](#project-description)
 - [Repository contents](#repository-contents)
@@ -17,3 +17,5 @@ Describe the contents and their organization here …
 ## How to contribute
 
 Describe how would collaborators to contribute to this repository …
+
+### I just modified you!!

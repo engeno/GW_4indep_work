@@ -1,6 +1,6 @@
 ---
-title: "Git and GitHub for collaborative research: Independet work"
-author: "Your name"
+title: "Git project"
+author: "Eric "
 output: 
   github_document:
     toc: yes
@@ -28,3 +28,5 @@ Describe the contents and their organization here ...
 ## How to contribute
 
 Describe how would collaborators to contribute to this repository ...
+
+### I just modified you!!
