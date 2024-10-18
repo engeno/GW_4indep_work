@@ -32,3 +32,5 @@ Describe how would collaborators to contribute to this repository ...
 ### I just modified you!!
 
 ## edit this file 
+
+## I added some more files, sorting into the respective sub folders
